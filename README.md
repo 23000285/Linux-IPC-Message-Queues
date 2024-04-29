@@ -103,6 +103,11 @@ gcc -o reader.o reader.c
 
 ![alt text](reader.png)
 
+ipcs
+
+## OUTPUT
+
+![alt text](IPCS.png)
 
 # RESULT:
 The programs are executed successfully.
